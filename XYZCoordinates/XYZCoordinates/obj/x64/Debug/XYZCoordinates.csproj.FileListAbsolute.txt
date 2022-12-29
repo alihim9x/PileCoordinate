@@ -1,0 +1,45 @@
+D:\Kien\Study\Revit Api\XYZCoordinates\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csprojResolveAssemblyReference.cache
+D:\Kien\Study\Revit Api\XYZCoordinates\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.dll
+D:\Kien\Study\Revit Api\XYZCoordinates\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.pdb
+D:\Kien\Study\Revit Api\XYZCoordinates\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
+D:\Kien\Study\Revit Api\XYZCoordinates\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.dll
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.pdb
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.g.cs
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.cache
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.lref
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.baml
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.g.resources
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.dll
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.pdb
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csprojResolveAssemblyReference.cache
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.g.cs
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.cache
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.lref
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.baml
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.g.resources
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
+D:\Study\RV Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.dll
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.pdb
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csprojResolveAssemblyReference.cache
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.g.cs
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.cache
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.lref
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.baml
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.g.resources
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
+E:\Hoc\RevitApi\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb
+D:\Kien\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csprojResolveAssemblyReference.cache
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.dll
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.pdb
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csprojResolveAssemblyReference.cache
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.g.cs
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.cache
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.lref
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.baml
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.g.resources
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
+D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb
