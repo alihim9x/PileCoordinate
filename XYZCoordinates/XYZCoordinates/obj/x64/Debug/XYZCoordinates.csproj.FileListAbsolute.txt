@@ -43,3 +43,14 @@ D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x
 D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.g.resources
 D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
 D:\Kien\old pc\Study\Revit Api\XYZCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.dll
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\bin\x64\Debug\XYZCoordinates.pdb
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csproj.AssemblyReference.cache
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.g.cs
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.cache
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates_MarkupCompile.lref
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\Model\Form\PileCoordinate.baml
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.g.resources
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.dll
+C:\Users\924002\OneDrive - Royal HaskoningDHV\Works\Revit Api\PileCoordinate\XYZCoordinates\XYZCoordinates\obj\x64\Debug\XYZCoordinates.pdb

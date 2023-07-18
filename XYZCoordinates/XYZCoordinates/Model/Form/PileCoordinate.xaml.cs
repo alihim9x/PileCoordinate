@@ -47,8 +47,8 @@ namespace Model.Form
             foreach (var item in piles)
             {
                 var point = item.GetLocationPoint().GetXYZCoordinates(pickProjectBasePoint);
-                item.SetValue("02_SE_XCOORDINATE(EW)", Math.Round((point.X/1000),roundingDecimal));
-                item.SetValue("02_SE_YCOORDINATE(NS)", Math.Round((point.Y/1000), roundingDecimal));
+                item.SetValue("02_SE_XCOORDINATE(EW)", Math.Round((point.X/1000),roundingDecimal).ToString("0.000"));
+                item.SetValue("02_SE_YCOORDINATE(NS)", Math.Round((point.Y/1000), roundingDecimal).ToString("0.000"));
             }
             Autodesk.Revit.UI.TaskDialog.Show("Revit", "Done!");
             var form = FormData.Instance.PileCoordinate;
